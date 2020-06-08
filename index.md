@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## About
+Hi, I am Sonali Sreedhar, a graduate student at USC pursuing my masters in Electrical Engineering focussed on Data Science and Computer Vision. I am interested in machine learning and deep learning in computer vision field and data science too.
+
 
 You can use the [editor on GitHub](https://github.com/sbsreedh/SonaliSreedhar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
